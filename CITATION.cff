@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Alveolar Phenotyping Pipeline"
+message: "If you use this research software, please cite the repository and its archived release when available."
+type: software
+authors:
+  - family-names: Beyene
+    given-names: Eyasu Desalegne
+version: 0.2.0
+date-released: 2026-09-21
+repository-code: "https://github.com/eyasudesalegne/alveolar-phenotyping-pipeline"
+license: MIT
