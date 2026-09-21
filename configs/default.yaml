@@ -1,0 +1,17 @@
+synthetic:
+  n_batches: 4
+  images_per_class_per_batch: 6
+  height: 192
+  width: 192
+  seed: 20260921
+
+qc_thresholds:
+  min_focus: 0.00055
+  max_saturation: 0.035
+  max_illumination_cv: 1.0
+  min_foreground_fraction: 0.01
+  max_foreground_fraction: 0.45
+
+validation:
+  held_out_batch: batch_4
+  bootstrap_replicates: 300
