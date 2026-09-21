@@ -1,0 +1,17 @@
+batch,phenotype,n_images,qc_pass_rate,median_cell_count
+batch_1,control,6,1.0,22.0
+batch_1,injury,6,0.6666666666666666,17.5
+batch_1,recovery,6,1.0,19.0
+batch_1,senescent,6,0.6666666666666666,13.5
+batch_2,control,6,1.0,21.5
+batch_2,injury,6,0.8333333333333334,18.5
+batch_2,recovery,6,1.0,20.0
+batch_2,senescent,6,1.0,13.0
+batch_3,control,6,1.0,19.5
+batch_3,injury,6,1.0,18.0
+batch_3,recovery,6,1.0,19.0
+batch_3,senescent,6,0.8333333333333334,17.0
+batch_4,control,6,1.0,20.5
+batch_4,injury,6,1.0,19.5
+batch_4,recovery,6,1.0,18.5
+batch_4,senescent,6,1.0,13.0
