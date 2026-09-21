@@ -1,0 +1,16 @@
+{
+  "n": 24.0,
+  "accuracy": 0.7916666666666666,
+  "balanced_accuracy": 0.7916666666666667,
+  "macro_f1": 0.787004662004662,
+  "log_loss": 0.43505842442820103,
+  "multiclass_brier": 0.2690007284517599,
+  "macro_f1_bootstrap_mean": 0.7772530200987597,
+  "macro_f1_ci95_low": 0.6166666666666667,
+  "macro_f1_ci95_high": 0.9224806443556444,
+  "held_out_batch": "batch_4",
+  "n_total": 96,
+  "n_qc_pass": 90,
+  "n_qc_fail": 6,
+  "synthetic_only": true
+}
